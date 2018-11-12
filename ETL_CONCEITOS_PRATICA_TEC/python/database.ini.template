@@ -1,0 +1,6 @@
+[mysql_demo_transformacao]
+user=yyyyy
+password=xxxxx
+host=localhost
+port=3306
+database=demo_transformacao
