@@ -16,3 +16,6 @@ Backup of *.doc*
 
 # Visio autosave temporary files
 *.~vsd*
+
+# conexão em banco de dados
+database.ini
